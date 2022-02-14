@@ -17,4 +17,5 @@ Entry Prompts include:
 
 ## Video Walkthrough 
 
+https://user-images.githubusercontent.com/92960832/153788515-18a8aa5a-c06b-49c4-aad1-b31d540235ae.mov
 
